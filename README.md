@@ -15,3 +15,15 @@ With Flutter, I was able to create a sleek and intuitive user interface for GetS
 By harnessing the power of Flutter, I was able to develop GetScore with speed and precision, providing students with a convenient tool to access their academic progress anytime, anywhere. 🌟
 
 #Flutter #AppDevelopment #GetScore #AcademicTool #UIUX #FlutterDev #MobileApps
+
+
+TO RUN THIS ON YOUR SYSTEM FOLLOW THIS:
+
+1.OPEN VSCODE OR ANDROID STUDIO.
+
+2.CLONE THE WHOLE REPOSITORY.
+
+3.RUN FLUTTER PUB GET COMMAND ON YOUR CODE EDITOR TERMINAL.
+
+4.RECOMENDED TO RUN CODE ON EMULATOR.
+
