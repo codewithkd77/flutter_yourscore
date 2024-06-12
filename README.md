@@ -1,5 +1,7 @@
 
 ![Screenshot (12)](https://github.com/codewithkd77/flutter_yourscore/assets/135022358/603b0d88-34cf-4550-a692-ec80a3572b40)
+
+
 My latest project on Flutter development! 📱 Introducing GetScore, an app designed to help students retrieve their semester scores with ease. 🎓
 
 With Flutter, I was able to create a sleek and intuitive user interface for GetScore. The app allows users to input their enrollment number and view their semester 4 results, including their SPI and CPI. Additionally, students can see their subject-wise results at a glance.
