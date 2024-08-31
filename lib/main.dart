@@ -3,7 +3,7 @@ import 'screens/enrollment_screen.dart'; // Update import path
 
 void main() {
   runApp(MyApp());
-}
+}     
 
 class MyApp extends StatelessWidget {
   @override
