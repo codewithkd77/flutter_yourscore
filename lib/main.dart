@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/enrollment_screen.dart'; // Update import path
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp());     
 }     
 
 class MyApp extends StatelessWidget {
