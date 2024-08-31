@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           elevation: 4.0,
         ),
         inputDecorationTheme: InputDecorationTheme(
-          fillColor: Colors.white,
+          fillColor: Colors.white,     
           filled: true,
           border: OutlineInputBorder(
             borderRadius: BorderRadius.circular(10.0),
